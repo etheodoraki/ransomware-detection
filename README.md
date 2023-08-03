@@ -1,12 +1,9 @@
-# ransomware-detection
-Basic ransomware detection
+# Basic ransomware detection
 Theodoraki Emmanouela
 
-###
-[ACE414]
-Security of Systems and Services
-Assignment 5
-###
+### [ACE414] Security of Systems and Services
+###           Assignment 5
+
 
 # Step 1: Implement​ the ransomware
 Development of the file "ransomware.sh" which is able to execute 2 functions.
